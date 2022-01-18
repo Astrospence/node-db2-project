@@ -3,7 +3,7 @@ const cars = [
     {
         vin: '7777777777777',
         make: 'Ford',
-        mode: 'Bronco',
+        model: 'Bronco',
         mileage: 20,
         title: 'clean',
         transmission: 'manual'
@@ -11,7 +11,7 @@ const cars = [
     {
         vin: '7777777777777',
         make: 'Toyota',
-        mode: 'Camry',
+        model: 'Camry',
         mileage: 40,
         title: 'salvage',
         transmission: 'automatic'
@@ -19,7 +19,7 @@ const cars = [
     {
         vin: '7777777777777',
         make: 'Dodge',
-        mode: 'Dart',
+        model: 'Dart',
         mileage: 30,
         title: 'clean',
         transmission: 'manual'
